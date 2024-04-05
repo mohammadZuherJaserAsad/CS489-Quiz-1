@@ -1,0 +1,15 @@
+Requirements:
+
+1. User Interface (UI):
+    The application should have an interface to allow the users interact with it.
+2. Contact Information:
+    - we should have fields for following informaiton first name, last name, company, and job title, and phone numbers and email addresses
+3. Functionality:
+    - Users should be able to search through the contacts based on the contact information(point number 2)
+    - if the users account allready excited the user should be able to update and detele thier informaion.
+4. Security:
+      the app should implement an authentication and an protection for the passwords
+5. Performance:
+    - The app should be working efficiently with huge numbers of the users and doing 
+all their operations(update, delete...)
+
